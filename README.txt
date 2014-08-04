@@ -96,6 +96,8 @@ More about themes:
 DEVELOPING FOR DRUPAL
 ---------------------
 
+http://www.phpfreelanceprogrammer.com/customize-drupal.html - Drupal freelance programmer 
+
 Drupal contains an extensive API that allows you to add to and modify the
 functionality of your site. The API consists of "hooks", which allow modules to
 react to system events and customize Drupal's behavior, and functions that
