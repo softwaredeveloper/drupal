@@ -398,3 +398,5 @@ MORE INFORMATION
 - For information about the wide range of available support options, visit
   http://drupal.org and click on Community and Support in the top or bottom
   navigation.
+  
+  Also drupal installation can be done by drupal developer https://www.phpfreelanceprogrammer.com/customize-drupal.html
